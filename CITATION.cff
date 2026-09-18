@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this Lean formalization, please cite this software repository and the accompanying paper."
+title: "Lean 4 formalization accompanying Product-free subsets of (0,1)"
+type: software
+authors:
+  - given-names: Leonardo
+    family-names: Franchi
+  - given-names: W. T.
+    family-names: Gowers
+  - given-names: Fredy
+    family-names: Yip
+version: 0.1.0
+keywords:
+  - Lean 4
+  - Mathlib
+  - formal verification
+  - additive combinatorics
+  - product-free sets
+  - sum-free sets
