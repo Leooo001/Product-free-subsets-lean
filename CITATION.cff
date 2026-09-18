@@ -9,7 +9,7 @@ authors:
     family-names: Gowers
   - given-names: Fredy
     family-names: Yip
-version: 0.1.0
+version: 1.0.1
 keywords:
   - Lean 4
   - Mathlib
